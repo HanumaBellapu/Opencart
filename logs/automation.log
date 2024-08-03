@@ -1,0 +1,234 @@
+2024-08-03 11:03:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:16:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:17:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:17:39 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:17:41 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:18:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\crossBrowserTesting.xml
+
+2024-08-03 11:18:58 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:18:58 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:18:58 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:18:58 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:19:03 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:19:03 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:19:04 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:19:04 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:19:05 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:19:05 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:19:08 ERROR TC01_AccountRegistration:47 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=127.0.2651.86)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5ecb2c35982e6509d8bc1f5575af4eb7, clickElement {id=f.B3E8A5C23BA0DA3EE9D031295BC6D5E7.d.AD1CDC566BB444CF9FC7D3DED28E4AFB.e.24}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 127.0.2651.86, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52031}, msedge: {msedgedriverVersion: 127.0.2651.86 (ac31d8b82969..., userDataDir: C:\Users\hanum\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52031/devtoo..., se:cdpVersion: 127.0.2651.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (5ecb2c35982e6509d8bc1f5575af4eb7)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 5ecb2c35982e6509d8bc1f5575af4eb7
+2024-08-03 11:19:08 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:19:18 ERROR TC01_AccountRegistration:47 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=127.0.2651.86)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5ecb2c35982e6509d8bc1f5575af4eb7, clickElement {id=f.B3E8A5C23BA0DA3EE9D031295BC6D5E7.d.AD1CDC566BB444CF9FC7D3DED28E4AFB.e.24}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 127.0.2651.86, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52031}, msedge: {msedgedriverVersion: 127.0.2651.86 (ac31d8b82969..., userDataDir: C:\Users\hanum\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52031/devtoo..., se:cdpVersion: 127.0.2651.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (5ecb2c35982e6509d8bc1f5575af4eb7)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 5ecb2c35982e6509d8bc1f5575af4eb7
+2024-08-03 11:19:18 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:20:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\crossBrowserTesting.xml
+
+2024-08-03 11:20:39 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:20:40 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:20:41 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:20:41 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:20:51 ERROR TC01_AccountRegistration:47 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: MicrosoftEdge=127.0.2651.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5c978a38440a80b0261601b0d4604a85, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 127.0.2651.86, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52149}, msedge: {msedgedriverVersion: 127.0.2651.86 (ac31d8b82969..., userDataDir: C:\Users\hanum\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52149/devtoo..., se:cdpVersion: 127.0.2651.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c978a38440a80b0261601b0d4604a85
+2024-08-03 11:20:51 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:20:51 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:20:52 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:20:52 ERROR TC01_AccountRegistration:47 - Test failed: Error communicating with the remote browser. It may have died.
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5c978a38440a80b0261601b0d4604a85, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 127.0.2651.86, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52149}, msedge: {msedgedriverVersion: 127.0.2651.86 (ac31d8b82969..., userDataDir: C:\Users\hanum\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52149/devtoo..., se:cdpVersion: 127.0.2651.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c978a38440a80b0261601b0d4604a85
+2024-08-03 11:20:52 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:29:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:29:28 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:29:30 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:30:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:30:11 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:30:13 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:30:15 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:30:16 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:30:16 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:30:16 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:30:18 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:30:18 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:31:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:31:24 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:31:26 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:31:29 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:31:29 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:31:30 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:31:30 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:31:31 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:31:31 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:31:35 INFO  TC03_LoginDataDrivenTest:19 - ***** Stating TC03_LoginDataDrivenTest *****
+2024-08-03 11:31:37 INFO  TC03_LoginDataDrivenTest:66 - ***** Finished TC03LoginDataDrivenTest *****
+2024-08-03 11:31:37 INFO  TC03_LoginDataDrivenTest:19 - ***** Stating TC03_LoginDataDrivenTest *****
+2024-08-03 11:31:48 INFO  TC03_LoginDataDrivenTest:66 - ***** Finished TC03LoginDataDrivenTest *****
+2024-08-03 11:31:48 INFO  TC03_LoginDataDrivenTest:19 - ***** Stating TC03_LoginDataDrivenTest *****
+2024-08-03 11:32:00 INFO  TC03_LoginDataDrivenTest:19 - ***** Stating TC03_LoginDataDrivenTest *****
+2024-08-03 11:32:11 INFO  TC03_LoginDataDrivenTest:66 - ***** Finished TC03LoginDataDrivenTest *****
+2024-08-03 11:32:11 INFO  TC03_LoginDataDrivenTest:19 - ***** Stating TC03_LoginDataDrivenTest *****
+2024-08-03 11:35:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 11:35:24 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:35:26 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:35:29 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:35:29 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:35:30 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:35:30 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:35:31 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:35:31 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:35:38 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:35:39 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:35:46 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:35:46 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:35:47 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:35:47 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:35:48 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:35:48 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:37:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:57:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:57:39 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:57:41 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:57:44 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:57:44 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:57:45 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:57:45 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:57:47 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:57:47 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:58:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 11:58:57 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 11:58:59 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 11:59:01 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 11:59:02 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 11:59:02 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 11:59:02 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 11:59:04 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 11:59:04 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 11:59:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 11:59:37 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:20:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 12:20:28 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:24:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 12:24:47 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:24:49 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 12:24:51 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 12:24:51 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 12:24:51 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 12:24:51 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 12:24:53 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 12:24:53 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 12:26:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 12:26:46 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:26:48 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 12:26:50 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 12:26:50 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 12:26:51 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 12:26:51 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 12:26:52 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 12:26:52 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 12:29:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 12:29:28 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:29:30 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 12:29:32 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 12:29:32 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 12:29:33 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 12:29:33 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 12:29:35 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 12:29:35 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 12:42:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\grid-docker.xml
+
+2024-08-03 12:42:48 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:42:49 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 12:42:51 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 12:42:51 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 12:42:52 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 12:42:52 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 12:42:54 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 12:42:54 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 12:43:01 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:43:02 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 12:43:08 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 12:43:08 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 12:43:08 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 12:43:08 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 12:43:10 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 12:43:10 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 12:53:19 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 12:53:21 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 12:53:23 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 12:53:24 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 12:53:24 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 12:53:24 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 12:53:26 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 12:53:26 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 13:13:31 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 13:13:33 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 13:13:35 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 13:13:35 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 13:13:36 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 13:13:36 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 13:13:37 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 13:13:37 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 13:16:28 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 13:16:30 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 13:16:32 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 13:16:33 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 13:16:33 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 13:16:33 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 13:16:35 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 13:16:35 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
