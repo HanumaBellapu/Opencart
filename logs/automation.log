@@ -232,3 +232,19 @@ Session ID: 5c978a38440a80b0261601b0d4604a85
 2024-08-03 13:16:33 INFO  TC01_AccountRegistration:28 - Providing customer details.....
 2024-08-03 13:16:35 INFO  TC01_AccountRegistration:42 - Validating expected message.....
 2024-08-03 13:16:35 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 17:38:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 17:38:39 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 17:38:41 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
+2024-08-03 17:38:43 INFO  TC01_AccountRegistration:16 - *****Starting registration test*****
+2024-08-03 17:38:44 INFO  TC01_AccountRegistration:21 - Clicked on my account.....
+2024-08-03 17:38:44 INFO  TC01_AccountRegistration:24 - Cliked on register.....
+2024-08-03 17:38:44 INFO  TC01_AccountRegistration:28 - Providing customer details.....
+2024-08-03 17:38:46 INFO  TC01_AccountRegistration:42 - Validating expected message.....
+2024-08-03 17:38:46 INFO  TC01_AccountRegistration:51 - *****Finished the registration test*****
+2024-08-03 17:42:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hanum\eclipse-workspace\Opencart\master.xml
+
+2024-08-03 17:42:20 INFO  TC02_LoginTest:15 - *****Stating TC02_LoginTest*****
+2024-08-03 17:42:22 INFO  TC02_LoginTest:35 - ***** Finished TC02 *****
